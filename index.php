@@ -1,1 +1,1 @@
-<h1>IT67 API</h1>
+<h1>Checkgrade API</h1>
